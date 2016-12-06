@@ -59,7 +59,6 @@ successCount++;
 } else {
 wordResponse[i] = '-';
 }
-done = true;
 
 }
 
